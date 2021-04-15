@@ -6,4 +6,5 @@ working web page:
 https://macoutreach.rocks/share/370bcb4a
 ```
 Firefox not recommended
+Chrome and Chromium are recommended 
 
